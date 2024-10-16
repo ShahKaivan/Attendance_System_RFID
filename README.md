@@ -16,5 +16,3 @@ The chip then responds by sending its stored information back to the reader in t
 2] Once the Microcontroller receives the data, it process the data, the data is a string of 16 characters which is identity of user. Now the microcontroller processes the data by adding data and time along with the card data.
 3] Microcontroller sends a get request to google sheet url. 
 4] The request send by microcontroller is handled by javaScript function which adds the parameters(name, date and time) into google sheet.
-
-### Refer circuit diagram from the 'GUIDE.pdf'
