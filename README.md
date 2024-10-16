@@ -1,4 +1,4 @@
-# IoTBasedAttendanceSystem-RFID-
+# IoTBasedAttendanceSystem-RFID
 
 ### This project scans a RFID card, reads card’s data and sends data to Google sheet along with date and time at which card is scanned.
 
